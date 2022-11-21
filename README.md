@@ -1,4 +1,4 @@
-## Glad you are here! <img src="<iframe src="https://giphy.com/embed/EvG0swLUXMRE5QrleR" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/djangodjango-django-glowing-in-the-dark-free-from-gravity-EvG0swLUXMRE5QrleR">via GIPHY</a></p>" width="30">
+## Glad you are here! <img src="<iframe src=""https://giphy.com/embed/EvG0swLUXMRE5QrleR" width="30">
 
 I am Husanboy Usmonov, people call me John, and I am computer engineering student at [University of Vistula]([https://utdallas.edu/](https://vistula.edu.pl/)). I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
 
