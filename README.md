@@ -5,7 +5,7 @@ I am Husanboy Usmonov, people call me John, and I am computer engineering studen
 [![Linkedin Badge](https://img.shields.io/badge/-husanboy_us-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/husanboyus/)
 [![Instagram Badge](https://img.shields.io/badge/-husanboy_us-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/husanboy_us/)](https://www.instagram.com/husanboy_us/)
 [![Youtube Badge](https://img.shields.io/badge/-HusanboyUsmonov-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/koolkanna)](https://www.youtube.com/c/HusanboyUsmonov)
-[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:husanghost@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-husanghost@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:husanghost@gmail.com)
 
 ## ⚡ Technologies
 
